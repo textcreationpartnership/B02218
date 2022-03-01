@@ -1,0 +1,1022 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christs impressions strong, sweet, and sensible on the hearts of believers, delivered in a sermon at Athelstonfoord, June 16, 1700. at the celebration of the sacred Eucharist. With some addition, / By I.C. M.D.</title>
+            <author>Clark, James, 1660-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02218</idno>
+            <idno type="STC">Wing C4461</idno>
+            <idno type="STC">ESTC R171372</idno>
+            <idno type="EEBO-CITATION">52211755</idno>
+            <idno type="OCLC">ocm 52211755</idno>
+            <idno type="VID">175574</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02218)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175574)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2740:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christs impressions strong, sweet, and sensible on the hearts of believers, delivered in a sermon at Athelstonfoord, June 16, 1700. at the celebration of the sacred Eucharist. With some addition, / By I.C. M.D.</title>
+                  <author>Clark, James, 1660-1723.</author>
+               </titleStmt>
+               <extent>[4], 43 [i.e. 44] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Reid,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>J. C. = James Clark.</note>
+                  <note>First 2 leaves contain t.p., "Pooles annotation, on Hebr: 8. 10.", and, "A poetick epistle to the reader".</note>
+                  <note>Numerous errors in pagination.</note>
+                  <note>Sermon is based on Luke XXIV, 32.</note>
+                  <note>Imperfect: tightly bound, print show-through with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Knowableness --  Sermons --  Early works to 1800.</term>
+               <term>Bible. --  N.T. --  Luke XXIV, 32 --  Sermons --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175574:1" rendition="simple:additions"/>
+            <p>Chriſts Impreſsions Strong, Sweet, and Senſible on the Hearts of BELIEVERS,</p>
+            <p>Delivered in a Sermon at <hi>Athelſtonfoord, June</hi> 16, 1700. at the Celebration of the Sacred <hi>Euchariſt.</hi> With ſome Addition,</p>
+            <p>By I: C. M. D.</p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Iſai: 8.11.</hi>
+                  </bibl> The LORD ſpake unto me with a ſtrong Hand.</p>
+               <p>
+                  <bibl>
+                     <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er. 31.33.</hi>
+                  </bibl> I will put My Law in their Inward Parts, and write it in their Hearts.</p>
+               <bibl>Flacc: Illyricus in <hi>2. Cor. 3.3.</hi>
+               </bibl>
+               <l>Cor carneum, I: E: Molle, ſeu ſpirituale,</l>
+               <l>ſentiens <hi>Impreſſiones</hi> Verbi Dei.</l>
+               <l>
+                  <hi>Mantuanus.</hi>
+               </l>
+               <l>— Permulcent alacres Proecordia flammae.</l>
+            </q>
+            <p>Printed by <hi>John Reid,</hi> 1700.</p>
+         </div>
+         <div type="commentary">
+            <pb facs="tcp:175574:2"/>
+            <head>POOLES ANNOTATION, on <hi>Hebr:</hi> 8.10.</head>
+            <p>
+               <hi>THE Powerfull Spirit of Our Re<g ref="char:EOLhyphen"/>deemer, who only can reach the Soul, will make</hi> Impreſſions <hi>and make clear</hi> Characters <hi>of Divine Truth on it, 2. Cor. 3.3.</hi> None can alter, nor Mould, Frame, and Temper a Spirit. But He — <hi>Epigrapſo,</hi> is a <hi>Metaphor,</hi> ſetting out a Real, Actual Powerfull-Work of the Spirit of Chriſt which leaveth the Expreſs Characters, of all GOD's ſaving Mind, and will upon the Heart or Soul, as plain as Writing upon Paper, or Engraving upon Stones, ſuch an Operation on the Spirits of Men, as where<g ref="char:EOLhyphen"/>by is Conveyed unto them, a new Light, Life, Power, ſo that they are made by i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Partakers of a <hi>Divine Nature.</hi>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:175574:2"/>
+            <head>
+               <hi>A POETICK</hi> Epiſtle to the Reader,</head>
+            <lg>
+               <l>
+                  <hi>CUm Chriſtus digito pulſat proecordia div<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi>
+               </l>
+               <l>
+                  <hi>Interior jugiter rumpitur omnis obe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t.</hi>
+               </l>
+               <l>
+                  <hi>Nonobſtante, caroquicquid ſat anaſveperurgent</hi>
+               </l>
+               <l>
+                  <hi>E contra, ad ſeſe corda proterva trahit,</hi>
+               </l>
+               <l>
+                  <hi>Etquumflammiferam fors deſuper exerit art</hi>
+               </l>
+               <l>
+                  <hi>in flammamvertitcorglaciaele ſacram,</hi>
+               </l>
+               <l>
+                  <hi>Corda arefacta rigans, perfuſo rore ſupernotem</hi>
+               </l>
+               <l>
+                  <hi>Fructus quam ſalubres, perpetuoſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ferunt.</hi>
+               </l>
+               <l>
+                  <hi>Cimmerias longe tenebras diſpellit, ad imam</hi>
+               </l>
+               <l>
+                  <hi>Mentem diffundit ter ratilos radios.</hi>
+               </l>
+               <l>
+                  <hi>Praefractis animis validos etiam imprimit ictus</hi>
+               </l>
+               <l>
+                  <hi>Queisin mollitiem ſaxea corda terit.</hi>
+               </l>
+               <l>
+                  <hi>Mens agitata malis furiis compeſcitur, omnes</hi>
+               </l>
+               <l>
+                  <hi>Et ſtimulos mulcet, cunctipotente manu.</hi>
+               </l>
+               <l>
+                  <hi>Denique; divinum tranſformat adiconacunct<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi>
+               </l>
+               <l>
+                  <hi>Affectus animi, Cor renovatque vetus.</hi>
+               </l>
+               <l>
+                  <hi>Solerti ſermonem animo pervolve ſequentem</hi>
+               </l>
+               <l>
+                  <hi>ſi Chriſti forſan tu' experiare manum.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>CHriſts <hi>Heav'nly Virtue</hi> doth tranſcend</l>
+               <l>what <hi>words</hi> or <hi>writings</hi> can commend,</l>
+               <l>This Sermon doth in part Eſſay,</l>
+               <l>His ſweet Impreſſions to diſplay.</l>
+               <l>Bright <hi>Orient</hi> Beams He makes to ſhine</l>
+               <l>Into the Blinded Miſtie Mind:</l>
+               <l>The Stubborn will he bends and bowes</l>
+               <pb facs="tcp:175574:3"/>
+               <l>To yield Him all His Sacred Dues:</l>
+               <l>The Frozen Heart he doth Inſpire,</l>
+               <l>Into a Flaming Spiritual Fire.</l>
+               <l>The Withered Soul he doth bedue,</l>
+               <l>Fine Flowers do bud, where <hi>Thiſtles</hi> grew</l>
+               <l>On which when gently he doth blow,</l>
+               <l>What <hi>Fragrant Odours</hi> from them flow:</l>
+               <l>What Heart of ſtone unbroke can ſtand</l>
+               <l>Before the Hammer in his Hand?</l>
+               <l>Sweetly, yet ſtrongly doth he draw</l>
+               <l>Hearts t'imitate his Life and Law,</l>
+               <l>He makes a <hi>Conſcience</hi> ſtorme ariſe,</l>
+               <l>And ſends anon calme <hi>Halcyon Days,</hi>
+               </l>
+               <l>In fine, Chriſts vertue doth <hi>Imprint,</hi>
+               </l>
+               <l>Like fair <hi>Coines,</hi> new come from the <hi>Mint</hi>
+               </l>
+               <l>GOD's Image deep on the whole Man,</l>
+               <l>Which neither Sin nor <hi>Satan</hi> can.</l>
+               <l>Efface, ſo that this Creature new</l>
+               <l>Shews furth a Heav'nly Form and Hew,</l>
+               <l>Reader my Muſe Concludes, to Pray</l>
+               <l>Thou from Experience may ſay,</l>
+               <l>Bleſſed be Chriſt. I feel, and find,</l>
+               <l>His ſweet Impreſſions on my mind.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:175574:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Luke 24.32.</hi>
+                  </bibl> And they ſaid one to a<g ref="char:EOLhyphen"/>nother, did not our Heart burn within us? while he talked with us by the Way, and while he opened to us the Scriptures.</q>
+            </epigraph>
+            <p>OUR LORD JE<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>US CHRIST having broken the Bonds of Death, and made open the gates of the Grave, that he might notifie or make known his Reſur<g ref="char:EOLhyphen"/>rection to His Apoſtles and Diſciples, he appeated to them and Converſed with them, at ſundry times, and in diverſe manners; particularly he manifeſted himſelf to two of the Diſciples that were going to <hi>Emmans:</hi> So that if we take a back-look to the 13 verſe of this Chapter, and from thence to our Text; We will find that thir two Diſ<g ref="char:EOLhyphen"/>ciples were in a Religious Conference, as is moſt probable about the Paſſion, Crucifixi<g ref="char:EOLhyphen"/>on, and Reſurrection of Chriſt, who, while they are thus Exerciſed, joined him<g ref="char:EOLhyphen"/>ſelf to their Society, and walking along
+<pb n="2" facs="tcp:175574:4"/> with them, enquired at them what manne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Communications they had; In Anſwer whereunto, <hi>Cleophas,</hi> one of them, told them what ſtrange things had happened Concerning Jeſus of <hi>Nazareth,</hi> who wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Crucified, and according to the Report o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſome, riſen again from the Dead: Bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they ſpeaking ſome what darkly and doubt<g ref="char:EOLhyphen"/>ingly about theſe things, he who alway went about doing good, explain<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to them more fully and clearly out of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Scrip<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures, the Propheſies, that concern<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the <hi>Meſſiah,</hi> and though for a while th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> did not underſtand ſo diſtinctly the Myſte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ies he was exponing, as applicable and Re<g ref="char:EOLhyphen"/>lative to himſelf; yet at length he made th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſcales fall from their eyes, and darted <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Beam of Divine Light into their Mind<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which did both Illuminate and warme thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Hearts, ſo that they knew him, and ca<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> feelingly to perceive, they had receive Vertue <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m him, the marvellous energ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whereof our Text tells us, did work upo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Spirits, did not our hearts burne with in us? being thus handed into our Text, Comprehends theſe three things.</p>
+            <p n="1">1. A new Conference of their two Di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ciples going to <hi>Emmans,</hi> and they ſaid on<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it another.</p>
+            <p n="2">
+               <pb n="3" facs="tcp:175574:4"/>2. The Subject of their Dialogue, <hi>did not our heart burn within us?</hi>
+            </p>
+            <p n="3">3. Th occaſion and Cauſe of this heart burning <hi>while he talked with us by the way, an opened to us the Scriptures;</hi> Now the cope of the Text is to inform us, what mighty Impreſſions Chriſt maketh on hearts, when he pleaſeth to exerce and ap<g ref="char:EOLhyphen"/>ply his Divine power and Energie, of whom it is ſaid, <hi>verſe</hi> 19. that be was a Prophet mighty in word and in deed, who alwaye: indeed ſpake with an Extraordi<g ref="char:EOLhyphen"/>nary Authority and Efficacie, ſo as never man ſpake, and without who's Aſſiſtance; none that ſpeake in His name, can ſpeake to purpoſe.</p>
+            <p>We ſhall not inſiſt to Explain the Terms of our Text Critically and Articulatly, for the only Terme that is <hi>Metaphorical,</hi> and ſo moſt needs Expoſition, will be cleared af<g ref="char:EOLhyphen"/>terward, when we come to ſpeake of the deep Impreſſions <hi>Chriſt</hi> makes on hearts un<g ref="char:EOLhyphen"/>der the Notion of Fire: So the phraſe, did not our hearts burn within us, being the only part of the <hi>verſe</hi> we mind to Preach from, may be thus Gloſſed; O were there not warme, ſweet and Senſible Motions of <hi>Chriſts</hi> Power on out Hearts, that have left deep and abiding Impreſſions with us,
+<pb n="4" facs="tcp:175574:5"/> the like whereof we never felt before: Now we come to make a Doctrinal Obſervati<g ref="char:EOLhyphen"/>on, which ſhall be the ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ject of our En<g ref="char:EOLhyphen"/>ſuing diſcourſe. <hi>viz.</hi>
+            </p>
+            <p>Where <hi>Chriſt</hi> comes he makes deep Im<g ref="char:EOLhyphen"/>preſſions and Gracious Diſpoſitions.</p>
+            <p>In Proſecution of this Doctrine we will Handle theſe particulars.</p>
+            <p n="1">1 Offer a a few Perliminary propoſiti<g ref="char:EOLhyphen"/>ons, that may give Light to the matter in Hand.</p>
+            <p n="2">2 Give ſome Grounds of proof of the Doctrine.</p>
+            <p n="3">3 Inform wherein <hi>Chriſt</hi> makes deep and Senſible Impreſſions.</p>
+            <p n="4">4 Tell what we muſt no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for our parts in order to obtaining and preſerving <hi>Chriſts</hi> Impreſſions.</p>
+            <p n="5">5. Make ſome practical uſe of the Doct<g ref="char:EOLhyphen"/>rine.</p>
+            <p n="1">1. An uſe of Reproof, 2 of Caution. As to the 1 particular, of preliminary propoſitions.</p>
+            <p n="1">1. Prop: By <hi>Chriſts</hi> Impreſſions we mean not, any Extraordinary Motions or Rapide Propenſions and Agitations of mind, ſuch as <hi>Quakers</hi> the <hi>German Anabap<g ref="char:EOLhyphen"/>tiſts,</hi> and other <hi>Enthuſiaſts</hi> pretend to, and boaſt oft, carrying them either to ſay or
+<pb n="5" facs="tcp:175574:5"/> do, what is contrary too; not warranted by or, above that which is written, in the Holy word of GOD, Und<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſtanding ne<g ref="char:EOLhyphen"/>ther what they ſay, not whereof they A<g ref="char:EOLhyphen"/>ffirm, 1, <hi>Tim:</hi> 1, 7, many are deluded and Impoſed upon by their own deceitfull dreams, and over heated Imaginations, miſ<g ref="char:EOLhyphen"/>taking the Excentrick and Spurious motiones of their own light Spirits, (not knowing what manner Spirits they are of) for the Inſpirations and Impreſſions of the Spirit of <hi>GOD,</hi> which yet may be no other, but the Fluxes and Refluxes of their own wild Fancies, or the ſpunks and ſparks of their own kindling: At all times there have been ſome ſuch deluded <hi>E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thuſiaſts,</hi> ſuch as <hi>David Georgi, Knipperdoling,</hi> and of late the <hi>Bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ignians.</hi>
+            </p>
+            <p n="2">2. <hi>Prop:</hi> But by <hi>Chriſts</hi> Impreſſions we Underſtand, a Supernatural wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k of his Spi<g ref="char:EOLhyphen"/>rit, whereby he not only brings the heart under a right ſet, and to a new Spiritual Temper, which may be called the firſt great ſtroak of his Hand at Converſion, Print<g ref="char:EOLhyphen"/>ing and Stamping the Image of GOD, on the Soul: but whereby alſo on all the believers occaſions and Exigencies afterwards, he ſends ſuch Renewed Inſpirations, and Re<g ref="char:EOLhyphen"/>peated Influences into his Soul, as make and
+<pb n="6" facs="tcp:175574:6"/> leave Senſible Workings, on the Reſpective Faculties, and affections of it, in the vertue whereof, the Gracious Believer, is ſtrongly Prompted to that which is truely Good, and Reſtrained, or made averſe from what is ill and Impious, and is dayly Excited in his Progreſſive Motions Heavnward. See <hi>Iſa:</hi> 6.8.8.11.12 <hi>Cor.</hi> 3:3.5 <hi>Son.</hi> 4 16. But leaſt we anticipate what afterwards may be Diſcourſed more Conveniently, we ſay no more here, hoping what is to be ſaid, will Contribute for further clearing of this point.</p>
+            <p n="3">3. <hi>Prop:</hi> Some Gracious Souls have more frequent, more Senſible, and deeper Im<g ref="char:EOLhyphen"/>preſſions than others, according to the Meaſure of the Gift of GOD, yea and the ſame perſons may at diverſe times undergo and Experience very Senſible, Alterations in their Frame and Inclinations, even ſuch Ebbings and Flowings, ſuch alternate Ups and Downs, as may make them feel and owne that they are neceſſarily dependant on the Spirit of Chriſt, who blows and Breaths, where, how, and when he lifteth, <hi>Pſs.</hi> 30. throughout.</p>
+            <p>As to the ſecond particular, we will offer ſome Grounds of Proof of the Doctrine, To wit, that where Chriſt comes, he makes
+<pb n="7" facs="tcp:175574:6"/> deep Impreſſions. 1 It is Congruous and Suitable to his Magnificence and Royalty, Chriſt is King of Kings, Encircled with moſt Excellent Auguſt Majeſty, the Beam<g ref="char:EOLhyphen"/>ing Rayes whereof, cannot but make a Mighty daſh on thoſe they teach and beat upon: Says <hi>Solomon. Eccl.</hi> 8.4. Where the Word of a K<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng is, there is Power, Potently preſſing the Spirits of them that hear it, when <hi>Iſaias</hi> Eyes ſaw the King the LORD of Hoſts, how deeply was he Af<g ref="char:EOLhyphen"/>fected, and made to cry, w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es me for I am Undone, I am a Man of Unclean Lips: <hi>Iſa</hi> 6 4. Did not all the Camp of <hi>Iſrael</hi> tremble, yea and the whole Mount quake greatly, when the LORD made his Ma<g ref="char:EOLhyphen"/>jeſtick Appearance on Mount <hi>Sinai, Exod:</hi> 19.16.18.</p>
+            <p n="2">2. The LORD hath promiſed ſo to Work upon Souls, as to make great Im<g ref="char:EOLhyphen"/>preſſions, and a Senſible Change upon them, <hi>Ezek:</hi> 36.25.26.27. I will ſprinkle clean Water upon you, and ye ſhall be clean, I will take away the Stonny Heart, and I will give you a new Heart, a Heart of Fleſh, I will put my Spirit within you, and Cauſe you to Walk in My wayes: O what mighty Impreſſiones here, to Bleach and Preſs filthy Souls to be clean, to make a
+<pb n="8" facs="tcp:175574:7"/> hard ſtone turn ſoft Fleſh, and by a Phyſical Efficacious Touch of His Finger, to Cauſe the Refractorie Selfiſh-will, chooſe and follow his Will, no doubt this is the Reſult of Enduement with Power from on High, <hi>Luke</hi> 24, 43.</p>
+            <p n="3">3. Many inſtances may be adduced of the Actual Fulfilment of thir his Gracious Promiſes, in the Senſible Sweet Experiences of his People; Let every one of you Re<g ref="char:EOLhyphen"/>tire into the Repoſitorie of your own Minds, and Memories, Revolve and View Your Diary, And I dare ſay, If ever thou haſt had any Heart Work or Soul Exerciſe, thou wil put to thy ſeal, thou canſt produce thy Witneſſes, to atteſt this thrice ſweet Truth: Says the ſpouſe, <hi>Son:</hi> 2: 3: 4 5: I ſat vnder his ſhaddow with great delight, and his Fruit was ſweet to my taſt, he brought me to the Banquetting Houſe, and his Banner over me was Love, which made me ſick of Love. <hi>Son.</hi> 5.4. My Beloved put in his Hand, by the hole of the door, and my Bowels were moved; Came not Chriſt ve<g ref="char:EOLhyphen"/>ry early to <hi>Elizabeth?</hi> if we may ſay ſo, even when he was (with Reſpect to his Huma<g ref="char:EOLhyphen"/>nity) but an <hi>Embryo</hi> in the Womb of his Mother, and yet what a Forcible Impreſ<g ref="char:EOLhyphen"/>ſion felt ſhe within her. <hi>Luke</hi> 1.43.44
+<pb n="9" facs="tcp:175574:7"/> Whence is this to me, that the Mother of my Lord ſhould come to me? For lo! as ſoon as the Voice of thy ſalutation ſoun<g ref="char:EOLhyphen"/>ded in mine Ear, the Babe leaped in my Womb for Joy: But what need I more Multiplie inſtances, Out Text being ſuch a plain and Pregnant One, did not our Heart burn within us, when he talked with us by the way, <hi>&amp;c.</hi>
+            </p>
+            <p n="4">4, None Ele can make Eff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctual Impreſ<g ref="char:EOLhyphen"/>ſions on hearts but <hi>Chriſt,</hi> this Surpaſſeth the Power of men and Angels, who muſt all cry out, who is ſufficient for theſe things? It is neither <hi>Paul</hi> who planteth, nor <hi>Apollo</hi> who watereth, but GOD who, (by his In<g ref="char:EOLhyphen"/>fluences) giveth the increaſe 1, <hi>Cor:</hi> 3: 6, 7: Suppoſe one endued wi h all the Embel<g ref="char:EOLhyphen"/>liſhments and advantages, of Naturall parts, acquired Abilities, and Supernatural ver<g ref="char:EOLhyphen"/>tues in their prime and the Superlative de<g ref="char:EOLhyphen"/>gree, and that particularly Eloquent in the moſt charming phraſes of fineſt Language, yet he cannot ſpeak into thy heart, this is <hi>Chriſts</hi> peculiar prerogative, who's proper Elogie it is, never man ſpake like this man <hi>John,</hi> 7: 46. As no perſon elſe, ſo no<g ref="char:EOLhyphen"/>thing but his mighty power can make Effica<g ref="char:EOLhyphen"/>cious Impreſſions: for Imagine that Heavens gates were caſt open, ſo that thou might<g ref="char:EOLhyphen"/>eſt
+<pb n="10" facs="tcp:175574:8"/> have a proſpect into the Superceleſtial Glory and happineſs, it would not Court or carrie thy Affections to chooſe and follow Holineſs, or Imagine that Hell were open<g ref="char:EOLhyphen"/>ed wide, ſo as thou mighteſt ſee the fright<g ref="char:EOLhyphen"/>full flames of the Lake, or be admitted to hear the horrible Sk<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icks of the damned wights there, it would not prove an Ar<g ref="char:EOLhyphen"/>gument forcible enough, to perſwade or prevail with thee to leave thy Luſts; no, no, it is only the Victorious Impre<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e vertue of Chriſt can performe ſuch Glo<g ref="char:EOLhyphen"/>rious Feats <hi>Rom:</hi> 9: 16. <hi>Phil:</hi> 2.13.4.13.</p>
+            <p n="5">5. The laſt Ground of proof that where Chriſt comes he makes great Impreſſions, we take from ſeveral figurative Terms &amp; De<g ref="char:EOLhyphen"/>nominations, that Chriſts Operati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns get in the Scripture, which Import mighty Efficacie.</p>
+            <p n="1">1: A Creative power is attributed to Chriſt &amp; ſpecially as it Terminates in the Formation of the new Creature, the Na<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions of this Act of Creating is the pro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uction of ſomething out of Nothing by ſuch an Almighty Divine Efficiencie, as is not Communicable to any Creatures: hence it is Accord<g ref="char:EOLhyphen"/>ing to faith, that all Creatures viſible, and Inviſible, by the alone word of his power, were at the beginning of Time brought into a reall Exiſtence; without anie preex<g ref="char:EOLhyphen"/>iſtent
+<pb n="11" facs="tcp:175574:8"/> matter or ſubject to operate, either upon or by <hi>Coll:</hi> 1, 16: <hi>Heb:</hi> 11: 3. Even ſo it is agreeable both to faith and feeling that they who are Regenerated and Renew<g ref="char:EOLhyphen"/>ed, are made ſo by the Creative ver<g ref="char:EOLhyphen"/>tue of Chriſts Power? therefore they who are Renewed in the Spirit of their mind, are ſaid to be Created after GOD in Righte<g ref="char:EOLhyphen"/>ouſeneſs and true Holineſs, <hi>Eph:</hi> 4: 23: 23: 24: and 34 3: 2: 10. <hi>They are GODS workmanſhip created in Chriſt Jeſus unto Good Works.</hi> and 2 Cor: 5: 17: <hi>They are Called new Creatures,</hi> and further, <hi>Rom:</hi> 12: 2: The are ſaid to be Metamorphoſed as the Original word is, or as we Tranſlate it, Tranſformed: All which Import they are another thing then they were, they paſs under a new form and Figure; Now to have the Image of GOD Imprinted where it was not, to be made a new and an other Creature, then before the Application of this Effecacious Divine vertue, what an undeniably Senſible Impreſſion is there made.</p>
+            <p n="2">2. The Divine hand is ſaid to draw Sin<g ref="char:EOLhyphen"/>ners unto himſelf, which is ſuch an Act and exercement of Divine power, that they who are drawn, cant but be ſenſible thereof, for to illuſtrate this, let us Suppoſe, when Chriſt
+<pb n="12" facs="tcp:175574:9"/> firſt puts in his hand at the hole of the doo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the heart of an Elect Sinner, and by hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Divine Touch ſweetly Impreſscis the Son to ſway and move towards him, thereup<g ref="char:EOLunhyphen"/>on the Devil, the World and the Fleſh are all alarmed and ſtirred to put thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hand to hold faſt the gripp they before had Now theſe all drawing and pulling upo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the one ſide as by a ſtrong three fold Cor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Iniquitie; And Chriſt who is ſtronge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then they all, drawing and pulling on th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other ſide, it is not imaginable, but tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the party thus dragged and drawn feels Im<g ref="char:EOLhyphen"/>preſſions from both theſe adverſe part<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> drawing Contrar ways, and from the grea<g ref="char:EOLunhyphen"/>ter Power the greater Impreſſion, Chriſt being at length Victorious and Imvincible<g ref="char:punc">▪</g> Hence <hi>Jo.</hi> 12:32: And 8. <hi>I</hi> be lifted up from the Earth (<hi>viz.</hi> On the Croſs, by the attractive vertue of my Crucifixion) will draw all, (the Elect) men unto me: And <hi>Jo:</hi> 6:44. No man can come unto me, Except the Father which hath ſent me draw him, Yet we would not have any body to miſunderſtand this attractive ver<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue of Chriſt, as if by his drawing he did violent the will of the Rationall Creature, or did Committ a kind of perforcible Rape upon his Affections, no, but he ſo works
+<pb n="13" facs="tcp:175574:9"/> agreeably to our Nature, altho by a Super<g ref="char:EOLhyphen"/>natural Efficacie, as that he Gently and Sweetly ſways our wils, (upon moſt Rati<g ref="char:EOLhyphen"/>onal conſiderations propoſed and ſuggeſted to the Intellect at ſundrie times, and in di<g ref="char:EOLhyphen"/>verſe manners) of choice and Complea<g ref="char:EOLhyphen"/>ſantly to Comply with his will, and to yeeld to his working, whereby of Naturallie un<g ref="char:EOLhyphen"/>willing, he makes Supernaturallie willing in a day of his Power, <hi>Pſal:</hi> 110:3, There<g ref="char:EOLhyphen"/>fore we may Imagine it to be ſuch a Drawing as is ſpoken of <hi>Jer:</hi> 31:3: <hi>I have loved thee with an Everlaſting love therefore with loving kindneſs have I drawen thee.</hi> Or as it is <hi>Hos:</hi> 11:4: <hi>I drew them with Cords of a man, with bonds of love.</hi>
+            </p>
+            <p n="3">3. Chriſts opperations are alſo ſet off un<g ref="char:EOLhyphen"/>der the Notion of Fire; We need not in<g ref="char:EOLhyphen"/>ſiſt to demonſtrate what Exquiſitly ſenſible Impreſſions fire makes, let any man if he would be ſatisfied by Experience, but hold his finger to the Flame of a burning Coal or Candle, and he will ſoon own it makes an Intollerable Impreſſion: the fire pur<g ref="char:EOLhyphen"/>geth, the fire melteth and makes malles able, the fire Transformeth, and fiercelie conſumeth, and that the moſt ſolide and hardeſt things, as <hi>Pontanus</hi> ſaith,
+<q>
+                  <pb n="14" facs="tcp:175574:10"/>Excoquit ſaxum violentus ignis.</q> And the fire ſtill Augmenteth into a greater and more violent flame, and it is fed and furniſhed with agreeable matter combuſtib<g ref="char:EOLhyphen"/>ly, ſo that it may be hard to extinguiſh it; Hence <hi>Solomon</hi> comparing Spiritual Love to Fire, ſaith he, <hi>Song.</hi> 8.6, 7. <hi>Love is as coals of fire,</hi> which hath a moſt vehement flame: <hi>many waters cannot quench love, Neither can the floods drown it:</hi> The narrow compaſs of one Sermon will not allow to be ſo prolix, as to run the parallel, betwixt the various Effects of fire, and the many Analogous or correſ<g ref="char:EOLunhyphen"/>pondent impreſſions that Chriſt makes on hearts, but ſeeing we may have occaſion afterward to touch at ſome thing of affinity hereunto, we will not now Enlarge further, but let Suffice that Chriſts Impreſſions on the two Diſciples Hearts, are in our Text Ex<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſſed by the <hi>Figure of fire:</hi> And <hi>John</hi> the <hi>Baptiſt</hi> ſaith of Chriſt, <hi>That he Baptiſeth with the Holy Ghoſt, and with Fire.</hi> Luke 3:16.</p>
+            <p n="4">4: Chriſts workings are Repreſented by wind, and the Blowings of it, the Impreſſi<g ref="char:EOLhyphen"/>ons whereof whoever have their Senſes about them, cannot deny to be ſenſible, this pierce<g ref="char:EOLhyphen"/>ing Element affecteth and reacheth all the other Elements; Enquire at the Gardner or Husbandman, and they will tell you what
+<pb n="15" facs="tcp:175574:10"/> Impreſſions the wind maketh on the earth and the Fruits thereof; Ask the Merchant or Mariner, and they will Informe you of its mighty power on the Waters; Yea but ſpear at the Kitchen maid that Blowes the Bellowes, and ſhe can tell you how it for<g ref="char:EOLhyphen"/>ces Sparks into Flames: It is a Common ſay<g ref="char:EOLhyphen"/>ing <hi>Aer eſt Anima ignis,</hi> Air is the Soul of Fire, which quickens and Animates it, hence <hi>Paul</hi> hath a Phraze. 2 <hi>Tim:</hi> 1.6. Which alludes to this, <hi>Stirr up the Gift of GOD which is in thee,</hi> the word in the Original <hi>Greek</hi> is very Emphatical and Significant <hi>Anazoporein,</hi> i: e: As with Bellows to blow the Coals and to revive or ſtirr up Fire that ſeems to be extinct and Bur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed under Aſhes: O what would become of the Believer when his Spi<g ref="char:EOLhyphen"/>rit is dull and flatt, when his Graces are Languiſhing and readie to dye, if the Inſpi<g ref="char:EOLhyphen"/>rations of the Almighty, if the Sweet Brea<g ref="char:EOLhyphen"/>things of the life giving Spirit of Jeſus, did not Influence and ſtirr him up unto Activity and motion in Heavenly things, and Heaven<g ref="char:EOLhyphen"/>ward therefore do we find Languiſhing Chriſ<g ref="char:EOLhyphen"/>tians in their Laſie &amp; flatt f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itts forced to cry out, <hi>Son:</hi> 4:16: <hi>Awake O North wind and come thou South, blow upon my Garden that the Spices thereof may flow out:</hi> And Chriſt him<g ref="char:EOLhyphen"/>ſelf Compares the working of his Spirit to Wind. <hi>Jo:</hi> 3:8:</p>
+            <p n="5">
+               <pb n="16" facs="tcp:175574:11"/>5. Chriſts Impreſſions are whiles ſet off u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>der the Notion of Water, the Notable ef<g ref="char:EOLhyphen"/>fects whereof are ſo many, we cannot inſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to enumerate them all. <hi>Hoſ.</hi> 14.5: <hi>I will b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as the Dew unto Iſrael:</hi> When Chriſt pleaſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to make the dew of Heaven come down o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Bellievers withered and barren Soul, O how do the ſeeds of Grace and Vertue tak<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> life? how do they Grow and Fructifie? ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that the Believer lookes out more Verdent, Freſh, and Flowriſhing than he did, he Buds and Bloſſomes like the Lillie and the Roſs, he revives as Corn from under the Clod.</p>
+            <p>
+               <hi>Iſa.</hi> 55.1. <hi>Ho every one that thirſteth, come to the Waters, and he that hath no Money, &amp;c.</hi> The ſcorched Thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtie Believer when he gets a draught of this Water of Life, how refreſhfull is it and ſweet to him, Chriſts Water is of more Worth, than other Folkes Wine; and yet for as precious as it is, may be had without Price, which makes us the more Unexcuſeable, if we neglect to go ſeek and get it, <hi>Pſal:</hi> 65.11. <hi>Thy Pathes drop fatneſs,</hi> May we not here<g ref="char:EOLhyphen"/>un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o allude, Conſidering what Impreſſions the Droppings of his Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nes make on Hearts, <hi>Gutta cavat lapidem.</hi> The Drops of Rain from Sklates or Tyles of Houſes, make
+<pb n="17" facs="tcp:175574:11"/> holes and Cavities in the very Stones, ſo the Drops of Chriſts Influences pierce Our Rocky Hearts, and make them yield to their frequently Repeated Impulſes.</p>
+            <p>Now from theſe inſtances, (and many more might be added) is it not Palpably proven, that Chriſts Operations are very Impreſſive and Powerfull on Hearts.</p>
+            <p>The 3d. thing we propoſed to handle, is to inform wherein Chriſt makes great Impreſ<g ref="char:EOLhyphen"/>ſions: And that 1ſt upon the Heart: 2d upon the Conſcience: 3d upon all the Senſes, and 4th upon the ſeveral Affections.</p>
+            <p>As to the 1ſt of theſe, we ſay, Chriſt makes great Impreſſions on the Heart, <hi>Viz.</hi> Theſe 5 wayes, 1. By renewing the Heats, chaing<g ref="char:EOLhyphen"/>ing it from its Corrupt Natural Conſtitution into a new Gracious Diſpoſition, ſo that the renewed Heart hath a new Light, and a new Sight of <hi>Things,</hi> he ſees ſin with another Eye than before, even in the Sinfulneſs and Ug<g ref="char:EOLhyphen"/>lyneſs of it: He now diſcerns an Admirable Amiableneſs and Beautie in Holyneſs, which before he hated: He ſees in <hi>Religious</hi> Dueties what engages his Soul with delight and diligence to perform them, whereas before they were a wearineſs, he ſees in himſelf ſo much Wretchedneſs, Emptineſs, and Vanitie, that he Wonders he ſhould
+<pb n="18" facs="tcp:175574:12"/> ever have been Proud or Self-conceited in any caſe: He ſees in GOD, that <hi>Majeſtie</hi> and <hi>Perfection,</hi> which ſtricks his Soul in<g ref="char:EOLhyphen"/>to deepeſt <hi>Veneration, Higheſt Love,</hi> and <hi>Inge<g ref="char:EOLhyphen"/>nuine Propenſion</hi> to <hi>ſtrickeſt Obedience,</hi> and as the Underſtanding Shares of <hi>New Light,</hi> ſo the Will and Deſires are brought under a new ſet, he hath new Principles, and new Projects, he is Promp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by more Pure Prin<g ref="char:EOLhyphen"/>ciples in the Purſuance of all his Pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jects, he Projects higher than ever he did, his great and Gracious Soul is not ſlaviſhly Chained and Reſtrained to Earthly, Temporal, and Tranſitorie Things, but Generouſly aſpires <hi>after the things that are above,</hi> and that in the Nature are Spiritual and Eternal, he now crys out, <hi>Whom have</hi> I <hi>in Heaven but thee, and there is none upon the Earth I deſire beſides thee, Pſalm</hi> 73.25. In a word, he Conceives and beholds Celeſtial Things, under a more Auguſt and affecting Aſpect, than ever he was Capable to apprehend before, from all which are not theſe new Qualities and Conditions of the thus Tranſ<g ref="char:EOLhyphen"/>formed Soul, the <hi>Native Reſultances</hi> of his <hi>Powerfull Gracious Impreſſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns, Ezek.</hi> 36.26. <hi>A new Heart alſo will I give you,</hi> &amp;c. <hi>Rom:</hi> 12.2. <hi>Tit.</hi> 3:5. But having ſpoken ſome<g ref="char:EOLhyphen"/>what of this before, we ſuperceed further Enlargement now.</p>
+            <p n="2">
+               <pb n="19" facs="tcp:175574:12"/>2. Chriſt makes great Impreſſions on the H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>art by opening the H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>art, and this he doth ſometimes in a more gentle way, as it were <hi>ſoftly ſtealing and ſlipping in his Hand by the hole of the Door,</hi> Thereby making the Bowels eaſily move and Open for his own Reception and Admiſſion. <hi>Son:</hi> 5.4.5. <hi>This way was Lydias,</hi> heart opend <hi>Acts</hi> 16.14. at other times he opens in a more roughſome manner, as it were making uſe of the Kings Keyes, by the <hi>Hammer of the Word,</hi> forci<g ref="char:EOLhyphen"/>bly breaking open the <hi>Doors,</hi> and making the <hi>Iron Bares,</hi> and Bands of Unbelief and Obſtinacie to flee aſſunder, but whatever way he takes, <hi>(The Holy One of Iſrael not be<g ref="char:EOLhyphen"/>ing Limited to ſtinted Methods and Meaſures)</hi> he makes his <hi>Royall Entrance</hi> ſo ſenſible, that ſoon or ſyne the Believer comes to Under<g ref="char:EOLhyphen"/>ſtand, <hi>That the King has made way and acceſs unto his Soul.</hi>
+            </p>
+            <p n="3">3. Chriſt makes great Impreſſions on the H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>art, by Purging the Heart, when <hi>Valetudinarie</hi> Perſons under Diſorder, or Indiſpoſition of Body get a Purgative potion which Works to purpoſe, readily they are under violent Preſſures and Grippings, ſo when Chriſt gives a bitter Potion and Cup of Affliction, it may through his Bleſſing prove Operative to Purge and Work out
+<pb n="20" facs="tcp:175574:13"/> heir <hi>Peccant ill humors,</hi> but not without ſome <hi>Throws and painfull Reſentments within, Iſa:</hi> 27 8, 9 By this therefore, (<hi>viz.</hi> This Chaſtiſement ſpoken of in the Preceeding Verſes) <hi>Shall the Iniquity of Jacob be Purged, and his ſin taken away, when Chriſt Purges the Temple of the Soul by caſting and Scourging out the Buyers and Sellers? Viz.</hi> Our Diverſe evill Luſts, that make Merchandiſe of us, and ſell us into the Hands of <hi>Satan,</hi> the Laſhes of his Cords make Prints and Blac Marks upon us, which to be ſure, we have ſome feelling of: <hi>When he Purgeth our Houſe of the old Poſſeſsores,</hi> Viz <hi>Legions of <g ref="char:V">Ʋ</g>nclean Spirits that have Haunted our Habitation, readi<g ref="char:EOLunhyphen"/>ly in their departure they make us Cry, and rent us ſore. Mar.</hi> 9 25.26.</p>
+            <p n="4">4. Chriſt makes great Impreſſions on the H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>art by fixing and Eſtabliſhing the Heart, againſt all Dangers and Fears, the Fear of Sin, the Fear of <hi>Satan,</hi> the Fear either of the Wrath of GOD or Man, the Fear of Death and Hell, may ſhake the Courage of the beſt ſometimes, and nothing may be able to ſtay and ſettle them, till Chriſts Hand be upon them for good, and thereby <hi>they may come to get a Heart eſtabliſhed by Grace, Heb:</hi> 13.9 When the Heart is like a <hi>Wavering Leafe, and a reed ſhaken with the
+<pb n="21" facs="tcp:175574:13"/> Wind, yet Chriſts Preſence can ſettle the Heart, Pſ:</hi> 23.4. <hi>Pſal:</hi> 4.6 8 Yea, and bring it to ſuch a Conſiſtencie of Eſtabliſhed Com<g ref="char:EOLhyphen"/>poſure, as to be able to ſay, <hi>My heart is fixed, My heart is fixed. Pſ.</hi> 57.7.</p>
+            <p n="5">5. Chriſt makes great Impreſſions on the Heart, in raiſing the Heart, and that to theſe 3 things.</p>
+            <p n="1">1. Chriſt Raiſes the heart too high Ele<g ref="char:EOLhyphen"/>vations of Admiration, doth not the Raiſed believer, whiles break forth to wonder at the wiſe and Matchles <hi>Contrivance</hi> of <hi>Redemption</hi> by <hi>GOD manifeſted in the Fleſh,</hi> which is a <hi>marvellous miſtery</hi> indeed, doth he not won<g ref="char:EOLhyphen"/>der at the Thoughts of ſpecial Differenc<g ref="char:EOLhyphen"/>ing Love, that hath choſen him out of the World, while whole Nations, Coun<g ref="char:EOLhyphen"/>try ſides, and Streets full of others are paſ<g ref="char:EOLhyphen"/>ſed by to periſh and pine away, ignor<g ref="char:EOLhyphen"/>rant of GOD; Inſenſible of ſin, and in hazard every moment of plumping into the pit? Doth he not admite the <hi>Tranſcen<g ref="char:EOLhyphen"/>dent mercie of his GOD,</hi> that pardoneth his great and many ſins, and Intimateth an <hi>Act of Indemnity</hi> to his Soul, while many farr leſs guilty are Condemned and Con<g ref="char:EOLhyphen"/>founded? doth he not alſo admire that <hi>Chriſt ſhould Aſſume him,</hi> who is by Nature
+<pb n="22" facs="tcp:175574:14"/> an heir of wrath, and Limb of Satan ev<g ref="char:EOLunhyphen"/>en as others, to become an united mem<g ref="char:EOLhyphen"/>ber of his <hi>Bleſsed myſtical Body,</hi> and to be an adopted apparent heir of Heaven, ſo that under theſe Aſtoniſhing Impreſſions he is made to Cry out: <hi>Who am</hi> I <hi>O LORD, and what is my Fathers Houſe that thou haſt brought me thither too!</hi> 2: <hi>Sam:</hi> 7, 18. <hi>And alſo, John</hi> 1, <hi>Eph:</hi> 3:1. <hi>Behold what manner of Love, the Father hath beſtowed upon us, that we ſhould be called the Sons of</hi> GOD!</p>
+            <p n="2">2, Chriſt Riſes the heart unto Impatient deſires after <hi>Communion</hi> and <hi>Soul intercourſes</hi> with himſelf, ſo that the believer is ne<g ref="char:EOLhyphen"/>ver in his Right Element but when in <hi>Chriſts Company,</hi> never at true Reſt, but when <hi>leaning on his boſome,</hi> Chriſts <hi>left hand being under his head, and his Right hand Embracing him.</hi> He is never cheerfull but when Chriſt Smiles, and when he frowns then all in the Dumps, and when he with<g ref="char:EOLhyphen"/>draws, O what lookings and longings till he Returne! Or at leaſt <hi>ſhew himſelf throught the Lattes,</hi> and there are no words drop from his Mouth have ſuch an Air and Accent, as when his love ſick Soul cryes, <hi>O lett him kiſs me with the kiſses of his mouth, Son,</hi> 1, 2. And whence all theſe ſo Fer<g ref="char:EOLhyphen"/>vent deſires after Chriſts companie, but
+<pb n="23" facs="tcp:175574:14"/> from the Impreſſions and Reſentiments of by gone ſweet Enjoyments, one kiſs draw<g ref="char:EOLhyphen"/>ing on another, and one viſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e promp<g ref="char:EOLhyphen"/>ting and preſſing, to court and cry for an<g ref="char:EOLhyphen"/>other, or rather to have a conſtant tack of his preſence: Hence when Chriſt was <hi>Transfigured in the Mount</hi> and the Diſcipls in his company had a viſion and diſplay of the Excellent Glory, they had ill will to flit thence, and therfore <hi>Peter</hi> ſays, <hi>Maſter it is good for us to be here, here let us dwel;</hi> Mat. 9, 35.</p>
+            <p n="3">3 Chriſt Raiſes the Heart to cheer<g ref="char:EOLhyphen"/>full Enlarged Praiſes: O when the be<g ref="char:EOLhyphen"/>liever views his Diary, to Extract an Ac<g ref="char:EOLhyphen"/>count of his Received Mercies, Chriſt Touching his Heart with feeling Reſent<g ref="char:EOLhyphen"/>ments thereof, how high doth he Raiſe his Notes in hearty and thankfull Sonnets of Praiſe, Singing and ſaying; <hi>Praiſe, Endle, Praiſe</hi> be to thee <hi>my Gracious and Bountifull LORD,</hi> I Praiſe thee that <hi>ever</hi> I <hi>heard of thee with the hearing of the Ear,</hi> I Praiſe thee for thy <hi>Word and Sacraments,</hi> I Praiſe thee that <hi>ever I had heart to Repent and b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lieve</hi> I Praiſe thee, <hi>for all thy Giftes and Graces,</hi> I Praiſe thee for <hi>Health and Strength and Liberty,</hi> I P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aiſe thee <hi>for Food and Raiment,</hi> I Praiſeing Praiſe thee <hi>for all thy
+<pb n="24" facs="tcp:175574:15"/> mercies bodily and Spirituall,</hi> and thus Procceds the Enlarged believer in the Magnifica<g ref="char:EOLhyphen"/>tions of the GOD of all Grace, and we may eaſily ſuppoſe that it is the <hi>Finger</hi> of Chriſt, which tunes the harp of his heart, to fit him for this <hi>Angelick Work,</hi> it is Chriſt that fixes all the pines and Strings of his Soul, ſo that he can ſay, <hi>my heart is fix<g ref="char:EOLhyphen"/>ed, my heart is fixed, I will ſing and give Praiſe, awake up my Glorie, awake Pſalterie and harp, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> my ſelf will awake early. Pſ.</hi> 57.7.8.</p>
+            <p>The ſecond thing wherein Chriſt makes great Impreſſions is upon the Conſcience, and that theſe 2 wayes.</p>
+            <p n="1">1. By awaking the Conscience, when GOD Thunders, Conſcience Shakes, when GOD Raiſes a Storme there, O what Perplex<g ref="char:EOLhyphen"/>ing Impreſſions and Grievous Concuſſions the ſtouteſt ſinner will ſtoup, when GOD opens his Eyes, and ſets his ſins in order before his face, and Raiſes ſtrong Appre<g ref="char:EOLhyphen"/>henſions in him of Divine Wrath and Vengeance Impendent over his head! he feels then a wounded Spirit who can bear, and that the Tortures of a Troubled Con<g ref="char:EOLhyphen"/>ſcience are a piece of Hell before hand, the Intollerable paines whereof have preſ<g ref="char:EOLhyphen"/>ſed them near to Diſpair and Diſtraction: The Tragick ſtory of <hi>Francies Spire,</hi> may
+<pb n="25" facs="tcp:175574:15"/> help to prove what Tormentfull Impreſ<g ref="char:EOLhyphen"/>ſions GOD can make on Conſciences.</p>
+            <p n="2">2. Chriſt makes Impreſſions on Con<g ref="char:EOLhyphen"/>ſciences to calme and quiet the Stormes therein: he that by the Word of his Power made the Roaring and Soaring Surges of the Sea be ſtill, and as it were made horried Tempeſts to fall into a deep Sleep of ſilence, <hi>Math:</hi> 8:24.26.27: <hi>Can alſo break all the Clouds, ſetle all the Stormes, and allay all the raging Tumults of a Troubled Con<g ref="char:EOLhyphen"/>ſcience, after a Rough Storme, he can ſend calm Halevon dayes to ſucceed,</hi> for as the Poet ſays.</p>
+            <p>
+               <hi>Nunc pluit, &amp; claro nunc Jupiter aethers fulget.</hi> And when this change of Weather is brought to paſs by his <hi>Fatherlie Care, Kindneſs and Indulgence,</hi> with what quiet and Serenitie is the Soul p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſed? <hi>Pſ:</hi> 30, 5, Pſ. 126.5. What a <hi>Soul Storme</hi> had the Jailout! yet within a while, a profound <hi>calm of Joy</hi> &amp; <hi>Rejoicing, Acts</hi> 16.29, 30, 34. And ſome<g ref="char:EOLhyphen"/>time it falleth out that they who have been ſorreſt haraſſed with <hi>ſevereſt ſtripes</hi> and ſtric<g ref="char:EOLhyphen"/>tures of Law-work in their Conſcience, have alſo had the <hi>ſweeteſt</hi> and <hi>higheſt meaſures of Peace and Tranquilitie of mind,</hi> when the Lord hath brought them out of the deeps of their Soul diſtreſſes.</p>
+            <p>The 3d thing wherein Chriſt makes great
+<pb n="26" facs="tcp:175574:16"/> Impreſſions, is in aff cting all the Senſes, which we would have underſtood in a Spiri<g ref="char:EOLhyphen"/>tual ſenſe According to the Apoſtels mean<g ref="char:EOLhyphen"/>ing, when he ſpeaketh <hi>Heb.</hi> 5:14. Of having <hi>the Senſes exerciſed to diſcern both Good and Evil.</hi> Now we will endeavour to demon<g ref="char:EOLhyphen"/>ſtrate <hi>how Chriſt thus affecteth all the</hi> 5 <hi>Senſes.</hi>
+            </p>
+            <p n="1">1 Chriſt affects mightily the <hi>Senſe of Hear<g ref="char:EOLhyphen"/>ing,</hi> making the <hi>voice of his Word,</hi> the <hi>Voice of his Providence,</hi> the <hi>Voice of his Spirit,</hi> and the <hi>Voice of our Conſciences,</hi> ſo to reach the cares of the Soul, as that it is raiſed to advert and Liſten to what he ſpeaketh: <hi>Son:</hi> 5:2. though <hi>the Spouſe was ſlumbring,</hi> as it were betwixt <hi>Sleeping</hi> and <hi>Waking,</hi> yet ſhe underſtood it was <hi>the Voice of her beloved, that Knocked, ſay<g ref="char:EOLhyphen"/>ing, Open to me my Love, my Dove,</hi> &amp;c. Yea ſo <hi>pierceing</hi> is his <hi>voice,</hi> that he makes even the <hi>Dead to Hear</hi> it, <hi>John</hi> 5:25: Never did the terrible rumbles of Lowdeſt Thunder<g ref="char:EOLhyphen"/>ings more forcibly beat the ears of Men than the fearful denunciations of his tremenduous threatnings the Souls of thoſe he minds to awaken. <hi>Acts</hi> 2.37. VVhen <hi>Peter</hi> is charg<g ref="char:EOLhyphen"/>ing them home in his Sermon with the guilt of the <hi>Horrid Crimſon crime of the Blood of Chriſt,</hi> they were ſtricken into ſuch a Conſter<g ref="char:EOLhyphen"/>nation, that it is ſaid, <hi>when they heard this they were pricked in their Hearts,</hi> and from the
+<pb n="27" facs="tcp:175574:16"/> painful Impreſſion of this <hi>Divine thruſt</hi> (as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he word in the Original will bear) they cryed out as men ſtrangely frighted, <hi>Men and Bretheren what ſhall we do?</hi> and ſays <hi>Habbakuk.</hi> 3.2.16. <hi>O Lord I have heard thy Speech, and was affraid; When</hi> I <hi>heard my Bellie trembled, my Cups quivered at the Voice.</hi> Alſo never did the ſweeteſt Conſort of Muſick more paſſi<g ref="char:EOLhyphen"/>onatly affect them that delight therein, then <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Melodious utterance of his Comfortable promiſes doth raiſe and raviſh the Souls of Believers. In the ſame Sermon of <hi>Peter, Acts</hi> 2.39. where after the Commination of threatnings, he changes his Tune to ſpeak of the promiſes, (for the promiſe, ſayes he, <hi>is to you and to your Children</hi>) you may ſee the Effect thereof, <hi>verſe</hi> 46.47. <hi>They did eat their Meat with gladneſs, and Singlenes of heart, praiſing God, their ſighings were turned to Sing<g ref="char:EOLhyphen"/>ings.</hi>
+            </p>
+            <p n="2">2. Chriſt mightily Effects the <hi>Senſe of ſeeing,</hi> when this Sun of Righteouſneſs pleaſes to dart down the Beams of his Brightneſs, what an Inſufferable diſplay of Light illuminats the Minds of Believers, the Sable Clouds of ignorance are Rent in pieces, and forced laſt, and farr to flee a<g ref="char:EOLhyphen"/>way, we already told the Enlighted Eye of the Believer, is ſo furniſhed with <hi>New Light,</hi>
+               <pb n="28" facs="tcp:175574:17"/> and a clear ſight that he Diſcerns Spiritua<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Things under other colours than befor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Scales fell from his Eyes, wherefore w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> proceed no further in this point: But ſur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Blind Man that hath his Eyes Opened, cannot but perceive that ſome ſtrange Af<g ref="char:EOLhyphen"/>fecting Operation hath paſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d upon him which will Print the <hi>Senſe</hi> and <hi>Remembran<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> thereof on his <hi>Thoughts for ever:</hi> Was not <hi>Zecharias</hi> under great Impreſſions, when he ſaid (what partly he Felt) <hi>that the day ſpring,</hi> or (<hi>Sun riſing,</hi> as in the Margine of our Bibles) <hi>from on high hath viſited us, to give Light to them that fit in darkneſs, and in the ſhaddow of Death,</hi> Luke 1.7.8.7. Muſt it not be a very <hi>Affecting Light?</hi> that is called a <hi>Glorious Light, or the Light of the Glorious Goſpel of Chriſt, which</hi> GOD <hi>Commandeth to ſhine into the Hearts of Believers?</hi> 2 Cor: 4.4 6.</p>
+            <p n="3">3. Chriſt mightily affects the <hi>Senſe of Smelling,</hi> where ever this <hi>perfumed Prince</hi> cometh, be ſendeth ſuch a fragrant ſmell through all the Ambient Air, that who<g ref="char:EOLhyphen"/>ever draw it at their Noſtrils, cannot but find it: Never did a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bed of <hi>Roſes,</hi> nor a bundle or <hi>Poſie</hi> of moſt <hi>fragrant Aromatick flowers,</hi> yeild a more raviſhing Scent, than this <hi>Roſe of Sharon? this Lilly of the Valleys
+<pb n="29" facs="tcp:175574:17"/> Song:</hi> 2:1. &amp; <hi>Song:</hi> 1.3. Becauſe of the ſavour of his <hi>good Ointments, His Name is as Ointment poured forth,</hi> whereby Believers are raiſed and preſſed in Soul to Love and ad<g ref="char:EOLhyphen"/>mire Him, and from His <hi>Odoriferous preſence</hi> is it, that all about Him ſmell ſtrongly of him, the Graces of Believers being ſtir<g ref="char:EOLhyphen"/>red and perfumed by His Grace-giving Vertue. <hi>Song:</hi> 1.12. <hi>While the King ſitteth at his Table, my Spickenard ſendeth forth the ſmell thereof.</hi> Now <hi>O Communicants,</hi> have ye not this day ſmelled Chriſt preſent at His Table? have not your Spices fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wed out? are not your Graces more freſh and fragrant than before?</p>
+            <p n="4">4. Chriſt mightily aff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts the <hi>ſenſe of Touch<g ref="char:EOLhyphen"/>ing;</hi> when His Finger touches the heart, when <hi>He puts in his hand by the hole of the door, He</hi> makes a ſtrange moving of the Bowels, <hi>Son</hi> 5:4. O Chriſtian didſt thou never touch and feel Him by the Finger of Faith? I hope thou haſt, and that thou canſt experimen<g ref="char:EOLhyphen"/>taly ſay, that thou haſt <hi>Touched him</hi> ſo E<g ref="char:EOLhyphen"/>ffectually and he hath <hi>Touched thee</hi> ſo Power<g ref="char:EOLhyphen"/>fullie, that vertue hath gone out from him to <hi>Cure thy flux of Blood, and to cleanſe thy Le<g ref="char:EOLhyphen"/>proſie Mar.</hi> 1.41, 42, 5.28, 30.</p>
+            <p n="5">5. Chriſt mightily Affects the <hi>ſenſe of Teaſt<g ref="char:EOLhyphen"/>ing, O Communicante,</hi> while thou was this
+<pb n="30" facs="tcp:175574:18"/> day Ea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing <hi>His Fleſh,</hi> which is Meat indeed and <hi>Drinking His Blood,</hi> which is Dri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k in<g ref="char:EOLhyphen"/>deed, had not this Heavenly Manna, a more Delicious Taſte, then any Delicacie ever thou did'ſt Taſte? Haſt thou not in the Sa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rament, <hi>ſenceably Touched, Taſted,</hi> and <hi>handled ſweet Chriſt:</hi> I dare ſay that the ſw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ete<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Carnal Guſt, that ever the moſt ſen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ual E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icure f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>und in his ſwiniſh fills of bodi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y plea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures, never came ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r to be ſo ſwee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and raviſhing as the Taſtings of <hi>Chriſts <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>piritual fruits</hi> and pleaſures: <hi>Song:</hi> 2.3.4 5. <hi>I ſat und<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r under his ſhadow with great delight, and his fruit was ſweet to my taſte, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e br<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ught me to the Banquetting h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſe, and his Banner over me was Love, ſtay me with flaggons, comfort me with Aples for I am ſick of Love;</hi> We dare no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay ſhe got a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it of Chriſt, but we may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay, ſhe got a taſtable fill of Chriſt, for a ſurfeit occaſions to ſoath and nauſeate, but the fill ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> got appetized her, for Chriſt ſtill more, which may be gathered from the verſes Immediatly, and the Chapters after following, where ſhe <hi>paſſionatly longs, ſhe indefatigably paints and purſues after Chriſt.</hi> And <hi>Peter</hi> hath a paſſage alſo to our pur<g ref="char:EOLhyphen"/>poſe, 1. Pet: 2.3. <hi>If ſo be ye have taſted that the</hi> LORD <hi>is Gracious.</hi> O Believer haſt thou not taſted and felt the Lord to be Gra<g ref="char:EOLhyphen"/>cious,
+<pb n="31" facs="tcp:175574:18"/> in accepting and Anſwering thy Pray<g ref="char:EOLhyphen"/>ers, in healing all thy Diſeaſes, in pardon<g ref="char:EOLhyphen"/>ing all thy ſins, in ſtrengthning thee a<g ref="char:EOLhyphen"/>gainſt all thy Temptations and Tribula<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<g ref="char:EOLhyphen"/>ons, in beſtowing liberally upon the many Love Tockens and Pledges of his fav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur, as fore<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſts of Glory, and an earneſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the future full I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heritance in Heaven, <hi>I</hi> hope ſome of you underſtand in Experience what I ſay.</p>
+            <p>The 4 thing wherein Chriſt makes great Impreſſions, is in raiſing high all the Af<g ref="char:EOLhyphen"/>fections this Diſcour<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e would ſwell too big, to ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ak of all the ſeveral Aff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctions and Paſſions of the Soul that Chriſt works upon, therefore we will touch but at ſome few, as a ſample h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w far Chriſts Impreſſions g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p n="1">1. Chriſt raiſeth into a flame the Affecti<g ref="char:EOLhyphen"/>on <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Love, <hi>did not our H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arts burn within us? ſaith the Text,</hi> and its ſmal wonder our Love ſhould enkindle towards him, when we conſider how much Lovely Chriſt in pure Love hath done and ſuffered for us; But how can we moreover but be deeply enamoured with him when we look upon him as the <hi>Orient</hi> and <hi>Glorious Beauty of Heaven and Earth,</hi> being the <hi>Brightneſs of his Fathers Glory,</hi> and the <hi>Expreſs Image of His Perſon,</hi> All created Beauties, are but faint
+<pb n="32" facs="tcp:175574:19"/> and fading Reſemblances to His <hi>matchleſs, Comelineſs,</hi> He is the <hi>Beauty of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aints</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Admiration of Angels,</hi> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the <hi>dearly beloved of GOD;</hi> And this further Commands our Love to him, that t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xcelent Beauty, is content to Cement, and be United to ſuch ugly ſouls as we a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e; this <hi>Son of the Ki<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g of Kings,</hi> we are called, and have Acc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſs to be Married unto; and O when the Believ<g ref="char:EOLhyphen"/>er contemplates on this honourable and happy Match, he is raiſed into Raptures of Love and Admira<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, where by his raviſhed ſoul is like to faint and expire in inflamed deſires after Him, <hi>Song</hi> 12. 5. <hi>ſtay me with flagons, comfort me with Aples for I am ſick of Love,</hi> was not this a deep Im<g ref="char:EOLhyphen"/>preſſion, the flame of Love made o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Her Hear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>?</p>
+            <p n="2">2. Chriſt Raiſes the Affection of <hi>Spiritual hatred, ſelf Loathing,</hi> and <hi>ſhame facedneſs,</hi> with what Confuſion is the Soul Perfused, when he thought fully Recounts and Reviews all his Abominations? when he looks on him<g ref="char:EOLhyphen"/>ſelf as ugglie and Loathſome in the ſight of a Holy GOD, at the ſame time alſo is he hateful and Loathſome in his own eyes, and can't lift them up towards Heaven, where <hi>Lesed Majeſty</hi> Reſides, eve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie look into <hi>His Innerman</hi> Forces ſighs from his heart,
+<pb n="33" facs="tcp:175574:19"/> tears from his eyes, complaints from his mouth, a Smi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing upon his Thighs, and makes ſome pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Impreſſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns on the whole man: When <hi>Jobs</hi> eyes were opened, <hi>He abhorred himſelf, and Repented in duſt and in aſhes Job.</hi> 42.5 6. When GOD's hand Reached E<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>raim, <hi>he Repented, he Smote on his Thigh, yea was aſhamed yea even Confounded.</hi> ver. 31.19. When the ſelf Abhorring publican was under a working ſenſe of his guilt, <hi>he ſtands a far off, will not lift u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo much as h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s eye unto Heaven, But ſmits upon his breaſt.</hi> Luk, 18.13. Look Ezek. 36.31.</p>
+            <p n="3">3 Chriſt Raiſes the Affection of <hi>Godly ſor<g ref="char:EOLhyphen"/>row,</hi> the Soul having Received a ſelf Loath<g ref="char:EOLhyphen"/>ing view of all his guiltineſs, as ſaid is, his eye. Affects his heart, yea his Rockie heart by a <hi>Touch of Chriſts finger</hi> guſhes out into Waters of penitential ſorrowings, when he conſiders how much he hath diſ<g ref="char:EOLhyphen"/>honoured and Angered GOD, how much he ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h filed and Endangered his precious Soul, <hi>he mournes like a Dove, he Chatters like a Cron,</hi> and whence all their penitential Boylings in his Bowels but from a look of Chriſt, and a look to Chriſt that draws from him a heart melting vertues. <hi>Zeck.</hi> 12.10. <hi>they ſhall look upon me whom they have
+<pb n="34" facs="tcp:175574:20"/> pierced, and they ſhall mourn, &amp;c. Luk</hi> 22.61 62. It was a <hi>piercing look of Chriſt to</hi> Peter over his ſhoulder, <hi>that made weep him bitterly.</hi>
+            </p>
+            <p n="4">4. Chriſt Raiſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the Aff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction of <hi>holy fear,</hi> a f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at both of ſin and Wrath, how anx<g ref="char:EOLhyphen"/>io<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſlie Cau<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious is the Believer, (from this Gracious Principale planted in hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) leaſt be Off<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd his <hi>Heavenly Father,</hi> and how mightily Aff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid leaſt b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cauſe of his Offen<g ref="char:EOLhyphen"/>ces his GOD hide his face and Frown up<g ref="char:EOLhyphen"/>on him. And when the fear of man, and any thing that he can own in his Malice, or Wickedneſs, and dreed of the <hi>great Je<g ref="char:EOLhyphen"/>hovah,</hi> come in competition together, the fear of GOD ſo ſtrongly overpowers and ſwalows up all other feats, that it keeps the aſcendent in the heart; and reſtrains the Believer both fr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m <hi>Impiety againſt,</hi> and <hi>A<g ref="char:EOLhyphen"/>poſtacie from</hi> GOD; The which <hi>ſpiritual fear</hi> is one of the new Covenant benefits and Bleſſings. <hi>Jer:</hi> 32.40. <hi>I will make an ever<g ref="char:EOLhyphen"/>laſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng Covenant with them, that</hi> I <hi>will not turn away from them to do them good, but</hi> I <hi>will put <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> fear in their Hearts, that they ſhall not de<g ref="char:EOLhyphen"/>part f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om me.</hi>
+            </p>
+            <p n="5">5. Chriſt raiſes the affection of <hi>Heavenly joy</hi> which whiles overflows all Banks: let me poſe thee, exerciſed Chriſtian, haſt
+<pb n="34" facs="tcp:175574:20"/> thou not ſometimes found (ſpecialy aft<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r deep Humiliation, delight and diligence in thy Devotions, or ſtrick ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o lead a holy Life) haſt th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u not found <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay, an inſuf<g ref="char:EOLhyphen"/>ferable and ſwalowing J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat the narrow necked V<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l of thy Soul could contain no more, doſt thou not mind ſome ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing Tydes of the ineffable Conſolation<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Spirit of GOD, which Chriſt the Giver of it calls a <hi>full joy,</hi> John 16.24. Luk: Cap. 24.52. calls <hi>a great Joy,</hi> Matthew calls <hi>an exceed<g ref="char:EOLhyphen"/>ing g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eat joy,</hi> Cap. 2:10. And <hi>Peter, A Joy unſpeakabl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and full of Glory.</hi> 1. Epiſt: 1.8. The which joy for as grea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as it is in the ſenſe of us Mortals, yet is but a crumb, a drop of the Heavenly joyes, we ſhall be e<g ref="char:EOLhyphen"/>ternaly ſatisfied with at our Fathers Table in Paradice, <hi>where we ſhall enjoy</hi> a <hi>far more exceeding and eternal weight of Glory,</hi> 2. Cor. 4.17.18.</p>
+            <p>The 4th particular we promiſed to han<g ref="char:EOLhyphen"/>dle is to tell, what ye muſt do for your pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, in order to obtaining and p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſerving Chriſts Impreſſions, as we have touched before in the firſt propoſition, you muſt not like <hi>Enthuſiaſts</hi> look for extraordinary impulſes and inſpirations, but in the ordinary way of the diligent uſe of proper means: ſaid the Heathean Poet, <hi>Metathenes kai Chaeira.</hi>
+            </p>
+            <pb n="36" facs="tcp:175574:21"/>
+            <p>
+               <hi>Kimie,</hi> with <hi>Minerva,</hi> put to thine own hand, even ſo Chriſtian, with Chriſt put to thine own hand. Then</p>
+            <p n="1">1. Purge out and abandon all <hi>ill impreſſions:</hi> ſure I am if thou doſt obſerve the ways of thine own ill heart, and art ſenſible of the diſorderly and diſtracting motions thereof, many a time, and many may<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt thou ſigh and ſay, that innumerable ill Impreſſions too frequently moleſt and pervert thy Spi<g ref="char:EOLhyphen"/>rit: let bitter Experience ſpeak? Have not the deſires of ſenſual pleaſures, the immo<g ref="char:EOLhyphen"/>derate eares of this World oppreſſed and occupied thy thoughts? Have not many im<g ref="char:EOLhyphen"/>peruous carnal Luſts haunted thy heart, and inflamed thee unto filthy inclinations? Have not malicious and revengeful deſigns ſunk<g ref="char:EOLhyphen"/>en deep in thy mind? Hath not envy grated thy intral<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? Have not many furious p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſions fired thy boſom, are there not innumerable more inordinate ill Impreſſions, that daily affect and diſorder thy <hi>whole Man,</hi> that we cannot ſtay to ſpecifie, but whereof thou mayeſt; be conſcious to thy ſelf; All which thou muſt diſgorge, and put far from thy Tabernacle, if thou wouldeſt have the Spirit of Chriſt to dwel and wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k in thee; This tubbiſh muſt be removed, e're thou become a Temple of the <hi>Holy-Ghoſt,</hi> at leaſt
+<pb n="36" facs="tcp:175574:21" rendition="simple:additions"/> thou muſt daily be doing ſomething that may contribute this way: ſet thy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elf then O Believer in the Grace and ſtrength of Chriſt, by deep Repentance by ſerious mortification, by conſtant Watchfulneſs, by active Faith on Chriſt to weaken and expel all the ill Impreſſions of thy Spirit, that thus thou mayeſt be the more fitted and capable to take on Chriſts gracious Impreſ<g ref="char:EOLhyphen"/>ſions. Hence 1. <hi>Cor:</hi> 5.7.8. We are re<g ref="char:EOLhyphen"/>quired to <hi>keep the Feaſt</hi> (ſuch a Feaſt as you have been at the day) <hi>not with old Leaven, neither with the Leaven of malice and wickedneſs, but with the unleavened Bread, of ſincerity and Truth.</hi> Now in order to our being a new Lump, he adviſes firſt to purge out the old <hi>Leaven:</hi> And <hi>Peter</hi> after the ſame manner, exhorting, <hi>as new born Babes, to deſire the ſin<g ref="char:EOLhyphen"/>cere Milk of the Word, that we may grow there<g ref="char:EOLhyphen"/>by,</hi> exhorteth alſo in or<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er to the words having the deeper Impreſſion and being the more taſteable, <hi>that we ſhould lay aſide all malice, and all guile, and hypocriſie, and envies, and all evil ſpeakings,</hi> 1. <hi>Peter</hi> 2.1.2. 3. And <hi>Paul</hi> alſo <hi>col:</hi> 3.2. Recommending <hi>to l<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> our Affections on things above,</hi> that this may be the more readily attained, he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>equires <hi>not to ſet our Affection on the things on the Earth,</hi> which is Equivalent, as if he had ſaid <hi>Ab<g ref="char:EOLhyphen"/>ſtract</hi>
+               <pb n="37" facs="tcp:175574:22"/> and <hi>withdraw</hi> your <hi>Affections</hi> fro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>carnal things,</hi> that they may be the mor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pure, ſpiritual, and leſs clogged, in thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mountings and ſoaring<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Heavenwards.</p>
+            <p n="2">2. Be frequent and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erve<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in theſe Due<g ref="char:EOLhyphen"/>ties and pieces of devotion, wherein Chriſt Uſualy Communicat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Impreſſions: O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſtian, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure thy ſelf to Heavenly Medi<g ref="char:EOLhyphen"/>tation, diligently <hi>hear</hi> and <hi>Read</hi> the <hi>good word</hi> of <hi>GOD,</hi> and Impartial<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ply b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>promiſes</hi> and <hi>Threatnings</hi> as th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t concerned, and ſee thou N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct no. Chriſtian conferences, <hi>for as Iron ſharpens Iron, ſo many one civ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly Ex<g ref="char:EOLhyphen"/>perienced Chriſtian put an edge upon an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther,</hi> And Remember it was whi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e cu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wo Diſciples in the Text, <hi>were talking tog<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther of Spiritual things that Chriſt cam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to them and made their hearts to burn,</hi> verſe, 13.14.15.32.3. More Eſpecialy, be much in the Duty of <hi>Prayer,</hi> O the many ſweet viſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Com<g ref="char:EOLhyphen"/>munications of Chriſt, that Believers have gotten on their knees; While they have been Fervently powring out their hearts to Chriſt, Chriſt has Favourably powred in his Heart upon them, and filled them with Love, Joy, peace, and much grace, if at any time O Believer thou find thy frame fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t and dull, thy graces Low and weak, what muſt thou do, but with the ſpouſe cry
+<pb n="38" facs="tcp:175574:22" rendition="simple:additions"/> out. <hi>Awake O North wind and come thou South, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>low upon my Garden that the ſpices thereof may flow <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut;</hi> I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is in <hi>Pra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er</hi> thou art <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o invite <hi>Chriſt to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome into his Garden, and eat his pleaſant Fruits</hi> Can<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: 4.16 Yea ſee how ſoon he Anſwers <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er votes in the very next words. Chap: 5.1 H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> puts her not off with a promiſe that he will come to morrow or the next day, bus ſayes he in the preſent Tenſe, I <hi>am co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e into my Garden, my Siſter, my Spouſe,</hi> &amp;c. and <hi>Ezeck.</hi> 36. you may ſee, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> GOD wil do ſo Much for <hi>Pra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er,</hi> that he will do nothing without it. for having given many gracious Promiſes, V. 26, 27.28. he tells them, I <hi>will yet for this be Enquired of by the houſe of Iſrael to do it for them.</hi>
+            </p>
+            <p n="4">4 Above all make <hi>daily</hi> uſe of Chriſt, the <hi>Inexhauſtable fountain</hi> of all grace, for all our ſprings are in him, and out of it is, <hi>we muſt derive, and gett grace for grace;</hi> J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hn 3.15.16. On all thy occaſions Act faith on his Bounty and fulnaſs and this is the True way both to get and to keep Heavenly Impreſſions <hi>Zech.</hi> 12.10 It's by locking to Chriſt, we muſt <hi>come by Spiritual Influences:</hi> Paul alſo tels us, <hi>that the holy Spiritual</hi> Life which <hi>he Lived, was by the faith</hi> of the Son of GOD Gal, 2.20; ſee <hi>Job,</hi> 15:5. <hi>Phil.</hi> 2.13.</p>
+            <pb n="41" facs="tcp:175574:23"/>
+            <p>The fifth and laſt point in proſecu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of this Doctrine is to make ſome <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of it.</p>
+            <p n="1">1. Uſe of <hi>Reproof. Two ſorts Rebukable.</hi>
+            </p>
+            <p n="1">1. Who are ind ff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rent of having Chri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Impr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſions on their hearts, Poor Souls <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> know not where your Mercy Lyes, are you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rent to be Rich? are you indifferent <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> peace and comfort, are you indifferent to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> happi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? are you indifferent of going <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Heaven? if you be ſo, how unſpeakabl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> miſerable? are you, for Chriſts working and Impreſſions, they make us Rich to<g ref="char:EOLunhyphen"/>wards GOD, they yeeld us ſolide and a<g ref="char:EOLunhyphen"/>biding peace and Joy? hey prepare us for Heaven and happineſs, thorow who ever had any Impreſſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns of grace, ſhall never have any Impreſſions of glorie?</p>
+            <p>They are Reproveable who mock at a <hi>Spiritual work of Grace in Believers,</hi> how ma<g ref="char:EOLhyphen"/>ny men of profain and looſe ſpirits are there, who, under a vogue of wit, Indulge themſelves too Raſhly to Nickname, and thorow dirt upon exerciſed Chriſtians, there<g ref="char:EOLhyphen"/>by to diſcredit Religion, and diſgrace the grace of GOD, in a work of Converſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and Regeneration, Ignorantlie Enough, Accounting the Impreſſions and Experi<g ref="char:EOLhyphen"/>ences that Believers have therein, to be
+<pb n="40" facs="tcp:175574:23" rendition="simple:additions"/> but the <hi>Enthuſiaſtick whimſies</hi> and <hi>Braineſick <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nceits</hi> of <hi>Airie Fanaticks:</hi> Alas! mad<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul becauſe ye are ſtrangers thereto our ſelvse, ſhould y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u therefore Judge <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o body hath the R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al ſenſe and and Expe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ience thereof but only in fanſie, It ſeems <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch know not that Chriſts <hi>inward Impreſſions,</hi> &amp; <hi>ſaving grace</hi> whereby aſſurance of ſalvation <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s given to Believers, in the <hi>Scripture ſtile <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd dialect, is called a white ſtone, that hath therein writen a New Name, which man knoweth, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aving he that Receiveth it. Revel:</hi> 2.17. <hi>O</hi> be Affraid to be mockers leaſt your Bands be made ſtrong, and ye be found even to fight againſt GOD.</p>
+            <p n="1">1. <hi>
+                  <g ref="char:V">Ʋ</g>ſe of Caution of Four Things.</hi>
+            </p>
+            <p n="1">1. Have a ſpecial Care <hi>Ye reſiſt not the Workings of the Spirit of Chriſt in your</hi> Soules, <hi>quench not Chriſts fire,</hi> This, like the Sacred <hi>Veſtal fire</hi> among the <hi>Romans,</hi> is to be keept always Burning, and therefore. O Believ<g ref="char:EOLhyphen"/>er, make much of Chriſts Impreſſions, Fo<g ref="char:EOLhyphen"/>ment and Improve Carefully all the Moti<g ref="char:EOLhyphen"/>ons and Impulſes of his Spirit, that thereby thy Soul may be both put, and keept in Life, I fear it is our dayly Grieving and Quenching the Spirit makes us ſo dull, Barren, and Cold<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, in all our perform<g ref="char:EOLhyphen"/>ances and Devoti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns.</p>
+            <p n="2">2. What Meaſure of Chriſts Impreſſions
+<pb n="41" facs="tcp:175574:24"/> hou gets, be not ſo Selfi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, as only to im<g ref="char:EOLunhyphen"/>prove them for thine own particular Uſe and Service as we uſe to ſay, <hi>no Man is born for himſelf only bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſo for others,</hi> S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no Man is <hi>Born again for himſelf,</hi> but that he may Em<g ref="char:EOLhyphen"/>ploy, the G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fts, Graces, Experiences, and Conſolations he ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Received, for the help, Comfort, and Furtherance of others, in the way to H aven: Says <hi>Paul,</hi> 1 <hi>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 5 11. <hi>Comfort your ſelves together and Edif<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> one another.</hi> Heb: 10 24. <hi>Conſider one ano<g ref="char:EOLhyphen"/>ther, to provocke unto Love and good Works: Hence alſo ſays</hi> David, <hi>Come and hear all ye that fear GOD, and I will declare what he hath done for my Soul, Pſal.</hi> 66.16. And did not our Inflamed Diſciples here run the very ſame Hour, <hi>while there Hearts were yet Hot,</hi> and told to others what had paſſed betwixt Chriſt and them? V. 33.34.35.</p>
+            <p n="3">3. Have a care ye miſtake not the Wild Spurious and Irregular Motions of your own Spirits for Chriſts Genuine Impreſſions: If thou art Proud, Self conceited, a Deſpiſer of others, making too great Oſtentation of thy Profeſſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n and Religion, ſuſpect thy Spirit not to be in a right Temper; for the true Worki<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gs of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hriſts Spirit, incline to be Holy, Humble, Sincere, Peaceable, Self-denyed, M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ek, Patien<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; Watchfull, and Diligent in ſerving and Walking with <hi>GOD.</hi>
+            </p>
+            <p n="4">
+               <pb n="42" facs="tcp:175574:24" rendition="simple:additions"/>4. Have a care that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he impreſſions from <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hriſt you get, do not wear off, nor decay: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow many ſeem to have great Flaſhes and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arm Frames at a Communion Occaſion, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pecially, which yet prove but like <hi>Ephraims</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oodneſs, That is, <hi>like a Morning cloud, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> early dew that goeth away, Hoſ:</hi> 6:4. And <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Jeremiah</hi> ſays, <hi>ſoon doth this Holy fleſh paſs <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>om them, chap:</hi> 11.15 An<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who among <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s all, <hi>(that we may Remember our faults this Day)</hi> that ever found what a Wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k of Grace or Converſion Meant; but many muſt ſay, that at this time we are under a grea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Alteration to the worſe, whereas our <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſt Love? whereas our Love of <hi>Eſpouſals,</hi> whereas our Tenderneſs and <hi>Filiar Fear,</hi> Whereas our Mighty Joy of the <hi>Holy Ghoſt,</hi> Where our <hi>Heart Melting</hi> and <hi>Mournings,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen our <hi>Hatred</hi> and <hi>Deſtation of ſin,</hi> where our <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>art keeping</hi> and <hi>Watchfulneſs,</hi> where our <hi>Burning Zeal</hi> for GOD's <hi>Honour?</hi> yea we may almoſt ſay, where is Our GOD? and not to Multiply more, where are all the Spiritual Impreſſions and Impulſes, that we had in the Younger and Earlier Days of our converſion? Are they not ſadly a<g ref="char:EOLhyphen"/>way, have we not Dangerouſly fallen there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rom; and is not a Carnal, Worldly, Vain <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Frothie Frame, come in the place there<g ref="char:EOLhyphen"/>of:
+<pb n="43" facs="tcp:175574:25"/> ſo that alas! we bring furth but <hi>Wil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Grapes unto the Lord,</hi> as if we were the <hi>De<g ref="char:EOLunhyphen"/>generat Plan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of a ſtrange Vine,</hi> therefore <hi>Re<g ref="char:EOLunhyphen"/>member from whence thou art fallen and Repent &amp; do thy fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt Works?</hi> And l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fall ſtill further, O Communicant conſide<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with Fear, that thou art (after their Com<g ref="char:EOLunhyphen"/>munion days are over) to be engaged it thy World<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Buſsineſs and cares, tho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mayeſt Rencounter many Temptations, tho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> haſt a Deceitfull Unconſtant Heart with hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thee, and hence art in great hazard of ne<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ill Impreſſions, that may Juffie out and Ex<g ref="char:EOLunhyphen"/>pel any Spiritual ones thou haſt got at thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Occaſion, and the more thou haſt gotten thou art in the greater hazard of <hi>ſatans</hi> at tacks; Who like Pyrates ſet not upon Ligh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Veſſels, but the moſt Loaden: put thy Im<g ref="char:EOLunhyphen"/>preſſions and Experiences in Chriſts Han<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that gave them, he is the beſt Hand to kee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them, and will reſtore them as thou neede<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with Increaſe and Addition: And if tho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſincerely and carefully do thir, and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other things, we have been Recommend in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thou mayeſt often be Receiving Spiritua<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Communications and Impreſſions fro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſt, whereby <hi>thy Heart will he made <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Burn within thee.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
